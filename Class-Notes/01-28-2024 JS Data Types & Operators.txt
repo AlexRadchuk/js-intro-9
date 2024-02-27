@@ -1,0 +1,41 @@
+let student1_name = 'John';
+let student1_age = 25;
+let student1address = 'Chicago';
+
+const student1 = {
+    name: 'John',
+    age:25,
+    address: 'Chicago'
+
+}
+
+keys: name, age, address
+values: 'John', 25, 'Chicago'
+
+
+Assignment operators
+
+
+Arithmetic Operator
+
+ORDER OF OPERATIONS
+1. parantheses
+2. exponents
+3. multiplaction or division
+4. addition or subtraction
+
+
+Modules -> Remainder
+num1 % num2 = 
+
+1. left number > right numberCalculate and find the Remainder
+15 % 4 = 3
+
+2. right number equal 
+
++ operator confusion
++ is used for concatenation
++ is used for addition
+
+
+
